@@ -11,7 +11,7 @@
 
 
 <h2>Photo</h2>
-<img src="road.jpg">
+<img src="image.png">
 <br>
 
 
