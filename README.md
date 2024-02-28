@@ -1,4 +1,4 @@
-<h1> Processing Images - Python Project</h1>
+<h1> Processing Images & Videos - Python Project</h1>
 <br>
 <h2>Features</h2>
 <li></li>
