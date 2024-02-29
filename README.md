@@ -1,8 +1,12 @@
 <h1> Processing Images & Videos - Python Project</h1>
 <br>
 <h2>Features</h2>
-<li></li>
-
+<li>Reading an image</li>
+<li>Extracting the RGB values of a pixel</li>
+<li>Extracting the Region of Interest (ROI)</li>
+<li>Resizing the Image</li>
+<li>Rotating the Image</li>
+<li>Displaying text/li>
 
 <h2>Acknowledgments</h2>
 
@@ -11,7 +15,7 @@
 
 
 <h2>Photo</h2>
-<img src="image.png">
+<img src="photo.png">
 <br>
 
 
