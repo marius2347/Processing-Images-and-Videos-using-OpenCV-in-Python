@@ -14,7 +14,6 @@
 <li>Color Spaces</li>
 <li>Arithmetic operations on Images</li>
 <li>Bitwise operations on Images</li>
-<li> </li>
 <h2>Acknowledgments</h2>
 
 <b> Python3: http://bit.ly/python3-certifications <b>
