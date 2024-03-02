@@ -10,6 +10,11 @@
 <li>Read images and display images on the screen using OpenCV and matplotlib libraries functions</li>
 <li>Convert BGR to RGB</li>
 <li>Opening in grayscale mode</li>
+<li>Save an image to storage</li>
+<li>Color Spaces</li>
+<li>Arithmetic operations on Images</li>
+<li>Bitwise operations on Images</li>
+<li> </li>
 <h2>Acknowledgments</h2>
 
 <b> Python3: http://bit.ly/python3-certifications <b>
