@@ -21,6 +21,9 @@
 <li>Histogram Calculation</li>
 <li>Plotting Histograms</li>
 <li>Histogram Equalization</li>
+<li>Simple Thresholding</li>
+<li>Adaptive Thresholding</li>
+<li>Otsu Thresholding</li>
 <h2>Acknowledgments</h2>
 
 <b> Python3: http://bit.ly/python3-certifications <b>
