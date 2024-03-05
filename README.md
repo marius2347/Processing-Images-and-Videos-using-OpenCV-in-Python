@@ -17,7 +17,7 @@
 <li>Image Resizing, Eroding, Blurring, Border</li>
 <li>Edge Detection</li>
 <li>Erosion and Dilation</li>
-<li>Histogram creation</li>
+<li>Histogram Creation</li>
 <li>Histogram Calculation</li>
 <li>Plotting Histograms</li>
 <li>Histogram Equalization</li>
