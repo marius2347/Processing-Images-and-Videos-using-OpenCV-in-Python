@@ -17,6 +17,18 @@
 <li>Image Resizing, Eroding, Blurring, Border</li>
 <li>Edge Detection</li>
 <li>Erosion and Dilation</li>
+<li>Histogram Creation</li>
+<li>Histogram Calculation</li>
+<li>Plotting Histograms</li>
+<li>Histogram Equalization</li>
+<li>Simple Thresholding</li>
+<li>Adaptive Thresholding</li>
+<li>Otsu Thresholding</li>
+<li>Convert from one color space to another</li>
+<li>Filter Color</li>
+<li>Denoising</li>
+<li>Finding Co-ordinates of Contours</li>
+<li>Bilateral Filtering</li>
 <h2>Acknowledgments</h2>
 
 <b> Python3: http://bit.ly/python3-certifications <b>
