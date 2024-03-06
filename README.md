@@ -17,11 +17,6 @@
 <li>Image Resizing, Eroding, Blurring, Border</li>
 <li>Edge Detection</li>
 <li>Erosion and Dilation</li>
-<li>Convert from one color space to another</li>
-<li>Color Filter / Color segmentation</li>
-<li>Denoising</li>
-<li>Finding Co-ordinates of Contours </li>
-<li>Bilateral Filtering</li>
 <h2>Acknowledgments</h2>
 
 <b> Python3: http://bit.ly/python3-certifications <b>
