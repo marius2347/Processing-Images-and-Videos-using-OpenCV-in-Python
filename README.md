@@ -29,6 +29,8 @@
 <li>Denoising</li>
 <li>Finding Co-ordinates of Contours</li>
 <li>Bilateral Filtering</li>
+<li>Image InPainting</li>
+<li>Intensity Transformation Operations</li>
 <h2>Acknowledgments</h2>
 
 <b> Python3: http://bit.ly/python3-certifications <b>
