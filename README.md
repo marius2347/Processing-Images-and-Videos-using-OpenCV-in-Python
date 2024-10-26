@@ -1,4 +1,4 @@
-<h1>Processing Images and Videos using openCV in Python</h1>
+<h1>Processing Images and Videos using OpenCV in Python</h1>
 <br>
 <h2>Features</h2>
 <ul>
